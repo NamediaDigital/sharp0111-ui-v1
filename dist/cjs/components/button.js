@@ -38,4 +38,3 @@ const Button = (_a) => {
     return (react_1.default.createElement("button", Object.assign({ style: _style }, props), children));
 };
 exports.Button = Button;
-//# sourceMappingURL=button.js.map

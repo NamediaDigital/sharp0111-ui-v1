@@ -19,4 +19,3 @@ exports.Primary = {
         children: 'My First Button'
     },
 };
-//# sourceMappingURL=button.stories.js.map

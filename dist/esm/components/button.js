@@ -31,4 +31,3 @@ export const Button = (_a) => {
     _style.padding = '5px 10px';
     return (React.createElement("button", Object.assign({ style: _style }, props), children));
 };
-//# sourceMappingURL=button.js.map
