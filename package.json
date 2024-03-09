@@ -1,5 +1,5 @@
 {
-  "name": "sharp0111-ui-v1",
+  "name": "@sharp0111/ui-v1",
   "version": "1.0.1",
   "description": "",
   "main": "dist/cjs/index.js",
